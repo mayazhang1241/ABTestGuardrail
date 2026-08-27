@@ -1,3 +1,6 @@
 numpy
 scipy
 pytest
+fastapi
+uvicorn[standard]
+websockets
