@@ -4,3 +4,5 @@ pytest
 fastapi
 uvicorn[standard]
 websockets
+asyncpg
+python-dotenv
