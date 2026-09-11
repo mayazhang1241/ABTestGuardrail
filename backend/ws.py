@@ -66,4 +66,5 @@ async def experiment_ws(
         pass
     finally:
         await db.finish_experiment(experiment_id, final_status)
+        
     
